@@ -1,3 +1,6 @@
 [submodule "kafka-streams"]
 	path = kafka-streams
 	url = git@github.com:titaniper/kafka-streams.git
+[submodule "kafka-connect"]
+	path = kafka-connect
+	url = git@github.com:titaniper/kafka-connect.git
