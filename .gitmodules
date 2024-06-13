@@ -10,3 +10,6 @@
 [submodule "kafka-rest"]
 	path = kafka-rest
 	url = git@github.com:titaniper/kafka-rest.git
+[submodule "kafka-playground"]
+	path = kafka-playground
+	url = git@github.com:titaniper/kafka-playground.git
