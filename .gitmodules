@@ -7,3 +7,6 @@
 [submodule "kafkajs"]
 	path = kafkajs
 	url = git@github.com:tulios/kafkajs.git
+[submodule "kafka-rest"]
+	path = kafka-rest
+	url = git@github.com:titaniper/kafka-rest.git
