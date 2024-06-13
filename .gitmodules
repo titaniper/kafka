@@ -4,3 +4,6 @@
 [submodule "kafka-connect"]
 	path = kafka-connect
 	url = git@github.com:titaniper/kafka-connect.git
+[submodule "kafkajs"]
+	path = kafkajs
+	url = git@github.com:tulios/kafkajs.git
