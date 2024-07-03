@@ -16,3 +16,6 @@
 [submodule "study/카프카, 데이터 플랫폼의 최강자/kafka"]
 	path = study/카프카, 데이터 플랫폼의 최강자/kafka
 	url = git@github.com:onlybooks/kafka.git
+[submodule "kafka-admin"]
+	path = kafka-admin
+	url = git@github.com:titaniper/kafka-admin.git
