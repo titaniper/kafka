@@ -19,3 +19,6 @@
 [submodule "kafka-admin"]
 	path = kafka-admin
 	url = git@github.com:titaniper/kafka-admin.git
+[submodule "kafka-ksql"]
+	path = kafka-ksql
+	url = git@github.com:titaniper/kafka-ksql.git
