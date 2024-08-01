@@ -22,3 +22,6 @@
 [submodule "kafka-ksql"]
 	path = kafka-ksql
 	url = git@github.com:titaniper/kafka-ksql.git
+[submodule "projects/kafka-streams-ts"]
+	path = projects/kafka-streams-ts
+	url = git@github.com:titaniper/kafka-streams-ts.git
